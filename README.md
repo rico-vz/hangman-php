@@ -1,2 +1,2 @@
 # hangman-php
-Hangman game. Choose your own one or get a random generated one.
+Hangman game. Choose your own word or get a random generated one.
